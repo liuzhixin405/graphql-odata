@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Tx9nXm1vkwHFRpHcC5Yf6AZ9giTyDApvJ7p6vwxmoR4=",
+  "Source": "ODataService.WebNew",
+  "BasePath": "_content/ODataService.WebNew",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
